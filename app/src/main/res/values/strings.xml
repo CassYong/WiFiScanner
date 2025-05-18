@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiFi Scanner</string>
+    <string name="scan">SCAN</string>
+    <string name="scanning">Scanning...</string>
+    <string name="encrypted">Encrypted</string>
+    <string name="open">Open (No Encryption)</string>
+    <string name="permission_required">Location permission is required for WiFi scanning</string>
+</resources>
